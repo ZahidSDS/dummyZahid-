@@ -13,7 +13,7 @@
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run following command to upload database from your terminal inside ClientLookup folder
-    # mysql -u homestead -psecret ClientLookup < dumpClientLookup.sql (please change the username and password according to your mysql login)
+  $mysql -u homestead -psecret ClientLookup < dumpClientLookup.sql (please change the username and password according to your mysql login)
 
 - That's it: launch the main URL or go to __/login__ and login with default credentials __admin@admin.com__ - __password__
 
