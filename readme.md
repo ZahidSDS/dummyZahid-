@@ -17,7 +17,7 @@ Orginally modified from github SportsLeague-QuickAdminPanel project
 - Run 
      __mysql -u homestead -psecret ClientLookup < dumpClientLookup.sql__ 
 
-this command will create table with dummy data; change database name and mysql crediential according to your mysql setup
+this command will create table with dummy data; change database name and mysql credential   according to your mysql setup
 
 - That's it: launch the main URL or go to __/login__ and login with default credentials __admin@admin.com__ - __password__
 
