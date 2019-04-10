@@ -1,6 +1,7 @@
-# This project is client list, lookup, membership and 30 days expire notice, project orginally modified from github SportsLeague-QuickAdminPanel project
+# This project is client list, lookup, membership and 30 days expire notice, project 
 
-## Laravel 5.4 based system 
+Orginally modified from github SportsLeague-QuickAdminPanel project by Laravel 5.4 based system 
+
 
 ## Admin login
 
