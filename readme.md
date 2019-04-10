@@ -14,7 +14,7 @@
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run 
-     $mysql -u homestead -psecret ClientLookup < dumpClientLookup.sql 
+     __mysql -u homestead -psecret ClientLookup < dumpClientLookup.sql__ 
 
 command to upload database from your terminal inside ClientLookup folder (please change the username and password according to your mysql login)
 
