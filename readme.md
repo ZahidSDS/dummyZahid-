@@ -1,7 +1,4 @@
-# This project is client list, lookup, membership and 30 days expire notice 
-
-Orginally modified from github SportsLeague-QuickAdminPanel project
-
+This project is client list, lookup, membership and 30 days expire notice 
 
 ## Admin login
 
@@ -21,9 +18,9 @@ this command will create table with dummy data; change database name and mysql c
 
 - That's it: launch the main URL or go to __/login__ and login with default credentials __admin@admin.com__ - __password__
 
-## License
 
-Basically, feel free to use.
+
+NB: All front end, functional, functionality, controller, model and database structure completely new design and all code written by me and this readme :) as well. I just download the framework and inspire by GitHub SportsLeague-QuickAdminPanel project.
 
 ---
 
