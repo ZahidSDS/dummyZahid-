@@ -20,7 +20,5 @@ this command will create table with dummy data; change database name and mysql c
 
 
 
-NB: All frontend, functional, functionality, controller, model and database structure completely new design and all code written by me and this readme :) as well. I just download the framework and inspire by GitHub SportsLeague-QuickAdminPanel project.
-
 ---
 
